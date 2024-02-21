@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=KirosHan&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+
+- 🔭 I’m currently working on Nodejs/Typescript
+
+- 🌱 I’m currently learning Flutter/Dart
